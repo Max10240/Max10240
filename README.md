@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Max10240
 - 👀 I’m interested in `typescript` & `compiler-theory`
-- 🌱 I’m currently learning `babel`
+- 🌱 I’m currently learning `rollup`
 - 💞️ I’m looking to collaborate on (emmmm...🤔)
 - 📫 How to reach me `wangbaolong36@gmail.com`
 
